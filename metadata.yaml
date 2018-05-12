@@ -1,0 +1,38 @@
+_repo: StrandingshistorierSkildringer-fra-jydske-Vestkyst-og-Skagen_36871
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36871-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Erichsen, L. Mylius (Ludvig Mylius)
+    aliases:
+    - Erichsen, Ludvig Mylius
+    - Mylius-Erichsen, Ludvig
+    - Erichsen, Mylius
+    birthdate: 1872
+    deathdate: 1907
+    gutenberg_agent_id: '38521'
+    url: http://www.gutenberg.org/2009/agents/38521
+description: ''
+gutenberg_issued: '2011-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36871'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Denmark -- Fiction'
+- !lcsh 'Rescues -- Fiction'
+tableOfContents: 'Tilegnelse: Michael Ancher, digt. Anna Ancher, digt. Kunstnerparret
+  Ancher. Lidt Karakteristik -- Fra jydske Vestkyst og Skagen: Strandvagt. En Redningsmand.
+  Skagensfiskere før og nu. Paa den hjemlige Ø. Julegæster fra Havet. Tilbage til
+  Livet. Sommerstranding. Ude paa Revet. Bark »Erato« af Sølvitsborg. Kærlighed og
+  Grundstødning.'
+title: 'Strandingshistorier: Skildringer fra jydske Vestkyst og Skagen'
+url: http://www.gutenberg.org/ebooks/36871
